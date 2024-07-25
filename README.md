@@ -1,8 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ZHlrD2sU)
 # partes de la computadora
 marie amaya
-#Trabajo programación
-##Pregruntas
+# Trabajo programación
+## Pregruntas
 **- ¿Cuál es la función principal de cada componente investigado?**
 El disco duro almacena archivos, la memoria RAM almacena los archivos activos, la unidad de almacenamiento archiva información requerida en un dispositivo externo al computador, la unidad central de procesamiento procesa información de carácter aritmético-lógica, la tarjeta madre permite la comunicación entre partes del computador, la fuente de alimentación se encarga de la transformación de corrientes alterna a continua, la memoria cache almacena programas pero solo con lectura sin posibilidad de modificación ni destrucción, el monitor muestra información en pantallla, el ratón con su cursor y el teclado permiten la interacción del usuario con datos internos del computador.Estas partes previamente mencionadas conforman el hardware del computador que se puede describir como las partes externas del mismo. Por otra parte, tenemos el software conformados por programas del computador con diversas funciones. Estos se dividen en el software de sistema, los cuales son programas ya pre instalados en todo computador que dan lugar al sistema operativo y correcto funcionamiento del computador. Por otra parte, estan los software de aplicación, estos permiten cumplir diversas funciones según lo requiera el usuario sea ya para cumplir una tarea o por entretenimiento. Por último, encontramos el software de programación cuya función es que el usuario pueda desarrollar programas informáticos propios.
 **- ¿Cómo interactúa el hardware con el software, cuál es la función de cada uno?**
@@ -23,19 +23,26 @@ Este proceso es conocido como proceso de arranque el cual esta divido en diverso
 9. El BIOS brinda el control a un dispositivo de booteo.
 **- Comenta algo que no sabías y que descubriste en esta actividad.**
 Ya conocía los componentes del software y hardware de un computador y la relación entre ellos. Sin embargo, me llamo la atención como se da el funcionamiento de una cpu por la sincronización del reloj por sus funciones por segundo y no sabía acerca de todo el proceso que se da mediante el proceso de arranque del computador y todos los elementos que dan lugar a este proceso.
+
 >Esta es una cita 
 https://www.ceupe.com/blog/software.html
+
 >Esta es una cita
 https://concepto.de/componentes-de-una-computadora/
+
 >Esta es una cita
 https://www.ufv.es/cetys/blog/diferencia-entre-hardware-y-software/#:~:text=%C2%BFCu%C3%A1l%20es%20la%20diferencia%20entre%20Hardware%20y%20Software%3F&text=%C3%89sta%20es%20la%20principal%20diferencia,de%20c%C3%B3digos%20del%20sistema%20operativo.
+
 >Esta es una cita
 https://www.pccomponentes.com/partes-de-un-cpu
+
 >Esta es una cita
 https://www.chuwi.com/es/news/items/3444.html
+
 >Esta es una cita
 https://www.ibm.com/docs/es/aix/7.2?topic=startup-boot-process
-###mapa mental
+### mapa mental
+
 [mapa mental](https://miro.com/welcomeonboard/N3lScjlHd1NIRmJ3RGlKQU9mcUhXbmhvZVV2dGtFdlcweW1CTnhnYThiVWp6b0lkaXlrUkRhV2tQRzlxb2ozUXwzNDU4NzY0NTk1Mzc4MDQ3MjAwfDI=?share_link_id=397294860095)
 
 
