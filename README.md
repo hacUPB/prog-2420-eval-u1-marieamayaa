@@ -2,7 +2,7 @@
 # partes de la computadora
 marie amaya
 # Trabajo programación
-## Pregruntas
+## Preguntas
 **- ¿Cuál es la función principal de cada componente investigado?**
 El disco duro almacena archivos, la memoria RAM almacena los archivos activos, la unidad de almacenamiento archiva información requerida en un dispositivo externo al computador, la unidad central de procesamiento procesa información de carácter aritmético-lógica, la tarjeta madre permite la comunicación entre partes del computador, la fuente de alimentación se encarga de la transformación de corrientes alterna a continua, la memoria cache almacena programas pero solo con lectura sin posibilidad de modificación ni destrucción, el monitor muestra información en pantallla, el ratón con su cursor y el teclado permiten la interacción del usuario con datos internos del computador.Estas partes previamente mencionadas conforman el hardware del computador que se puede describir como las partes externas del mismo. Por otra parte, tenemos el software conformados por programas del computador con diversas funciones. Estos se dividen en el software de sistema, los cuales son programas ya pre instalados en todo computador que dan lugar al sistema operativo y correcto funcionamiento del computador. Por otra parte, estan los software de aplicación, estos permiten cumplir diversas funciones según lo requiera el usuario sea ya para cumplir una tarea o por entretenimiento. Por último, encontramos el software de programación cuya función es que el usuario pueda desarrollar programas informáticos propios.
 **- ¿Cómo interactúa el hardware con el software, cuál es la función de cada uno?**
