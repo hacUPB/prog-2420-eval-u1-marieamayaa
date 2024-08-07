@@ -1,0 +1,86 @@
+# Actividad 3
+## Problemas
+1.  Determinar el promedio de calificaciones de un estudiante y si ha aprobado o no
+´´´ Inicio
+       Definir numnotas, a
+       Definir variable suma = 0
+       Definir variable promedio, p
+       Imprimir " Ingresa el número de notas"
+       Leer numnotas
+       Para a desde 1 hasta numnotas
+        Definir variable nota
+        Imprimir "ahora ingresa tu nota", a, "
+        Leer nota
+        Agregar nota a notas
+       Fin Para
+
+       Para cada nota en notas hacer
+        suma = suma + nota
+    Fin Para
+    P= suma /numnotas
+    
+    Imprimir "Su promedio es de:" ,p
+    Si p>= 3.0 Imprimir "Felicitaciones, haz aprobado"
+    Sino 
+    Imprimir"Lo siento, no haz pasado"
+    Fin ´´´
+
+2. Determinar la distancia total recorrida por un vehículo con registros de velocidad y tiempo
+´´´ Inicio
+     Definir variable numregistros, a
+     Definir lista velocidades
+     Definir lista tiempos
+     Definir variabledistanciatotal = 0
+
+     Imprimir "Ingresar el número de registros de velocidades y de tiempos"
+     Leer numregistros
+     Para a desde 1 hasta numregistros hacer,
+      Definir velocidad, tiempo
+      Imprimir "Ingresar velocidad del registro", a, "en km/h"
+      Leer velocidad
+      Agregar velocidad a velocidades
+      Imprimir "ingresar tiempo del registro", a,"en hrs"
+      Leer tiempo
+      Agregar tiempo a tiempos
+    Fin Para
+
+    Para a desde 1 hasta numregistros hacer
+     distanciatotal=distanciatotal+(velocidades"a"*tiempos"a") 
+    Fin Para
+    Imprimir " Su distancia total recorrida es de:", distanciatotal
+Fin ´´´
+3. Calcular la edad de una persona a partir de su fecha de nacimiento y la fecha actual
+´´´Inicio
+ Defino ddnacimiento, mmnacimiento, aanacimiento, a
+ Defino ddactual, mmactual, aaactual, b
+ Defino ddedad, mmedad, aaedad, c
+ 
+ Imprimir "Ingresar fecha de nacimiento", a, "(dd/mm/aa)"
+ Leer ddnacimiento, mmnacimiento, aanacimiento
+ Imprimir "Ingresar la fecha actual", b, "(dd/mm/aa)"
+ Leer ddactual, mmactual, aaactual
+  Fin Para
+
+  Para edadaños hacer
+  edadaños= aaactual- aanacimiento
+  Para mmactual>mmnacimiento entonces yacumplio=V
+  Sino Para mmactual=mmnacimiento entonces
+   Para ddactual>=ddnacimiento entonces 
+   yacumplio=V 
+   Sino
+   yacumplio=F 
+Fin para
+Para yacumplio=F
+edadaños=edadaños-1
+
+Fin Para
+ddactual=ddnacimiento ymmactual=mmnacimiento
+escumpleaños=V
+Sino escumpleaños=F
+Fin Para
+Si escumpleaños=V 
+Imprimir "Felicitaciones feliz cumpleaños!!"
+Fin´´´
+
+     
+    
