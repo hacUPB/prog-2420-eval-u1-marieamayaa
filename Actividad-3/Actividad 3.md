@@ -1,14 +1,15 @@
 # Actividad 3
 ## Problemas
 1.  Determinar el promedio de calificaciones de un estudiante y si ha aprobado o no
-``` Inicio
+``` 
+Inicio
     Definir suma = 0
     Definir notas como lista vacía
     Imprimir "Ingresa el número de notas"
     Leer numnotas
     
     Para a desde 1 hasta numnotas hacer
-        Imprimir "Ahora ingresa tu nota ", npta
+        Imprimir "Ahora ingresa tu nota ", nota
         Leer nota
         Agregar nota a la lista de notas
     Fin Para
@@ -25,11 +26,13 @@
     Sino
         Imprimir "Lo siento, no has pasado"
     Fin Si
-Fin ```
+Fin 
+```
 
 
 2. Determinar la distancia total recorrida por un vehículo con registros de velocidad y tiempo
-``` Inicio
+``` 
+Inicio
     Definir distanciatotal = 0
     Definir velocidades, tiempos como listas vacías
     Imprimir "Ingresar el número de registros de velocidades y de tiempos"
@@ -51,10 +54,12 @@ Fin ```
     Fin Para
     
     Imprimir "Su distancia total recorrida es de:", distanciatotal, " km"
-Fin ```
+Fin
+ ```
 
 3. Calcular la edad de una persona a partir de su fecha de nacimiento y la fecha actual
-``` Inicio
+``` 
+Inicio
     Imprimir "Ingresar fecha de nacimiento (dd/mm/aa)"
     Leer ddnacimiento, mmnacimiento, aanacimiento
     
@@ -90,7 +95,8 @@ Fin ```
     Fin Si
 
     Imprimir "Edad calculada: ", edadaños, " años"
-Fin ```
+Fin 
+```
      
 
 
